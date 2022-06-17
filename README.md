@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 🖐
 I am dongwoo ko, an university student from South Korea. I'm studying computer science💻.
 
 ### Languages
