@@ -6,11 +6,12 @@
 <br/>
 
 ## Experience
+- Software Maestro 14th (2023.04 ~ 2023.11)
+- UMC 2nd (2022.03 ~ 2022.08)
 - Hanyang University ERICA (2019.03 ~ 2024.02)
   - 1st major : ICT Convergence
   - 2nd major : Computer Science
-- UMC 2nd (2022.03 ~ 2022.08)
-- Software Maestro 14th (2023.04 ~ 2023.11)
+
 <br/>
 
 ## Tech Stacks
