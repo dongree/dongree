@@ -7,7 +7,7 @@
 <br/>
 
 ## Experience
-- Naver Boostcamp Web·Mobile 9th (2024.06 ~ )
+- Naver Boostcamp Web·Mobile 9th (2024.06 ~ 2024.12)
 - Software Maestro 14th (2023.04 ~ 2023.12)
 - UMC 2nd (2022.03 ~ 2022.08)
 - Hanyang University ERICA (2019.03 ~ 2024.02)
